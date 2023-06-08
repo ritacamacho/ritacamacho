@@ -16,7 +16,7 @@ Hey! I'm 19 years old and I'm currently diving deep into the exciting world of S
        <img alt="ritacunhacamacho@gmail.com" title="Email" src="https://custom-icon-badges.demolab.com/badge/-EMAIL-858AE3?style=for-the-badge&logo=mail&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/rita-camacho-948057253/">
-      <img alt="https://www.linkedin.com/in/rita-camacho-948057253/" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-B596E5?style=for-the-badge&logo=mail&logoColor=white"/>
+      <img alt="https://www.linkedin.com/in/rita-camacho-948057253/" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-B596E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
 
