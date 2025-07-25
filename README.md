@@ -1,31 +1,36 @@
-# Rita Camacho ✨
+## Rita Camacho ✨
 
-### 🧚🏻‍♀️ About me
-Hey! I'm 19 years old and I'm currently diving deep into the exciting world of Software Engineering at University of Minho. My interest lies in exploring new technologies and channeling my free time into creating personal projects and captivating designs. When I'm not immersed in code, you can find me reading, drawing or learning more about fashion. I also consider myself a passionate seeker of creativity and I love travelling. Right now I'm searching for new challenges and opportunities to improve as a developer!
+🎓 I'm a **Software Engineering** student @ [University of Minho](https://www.uminho.pt/EN), based in **Portugal** </br>
+🪄 I'm looking for challenging **opportunities** to grow as a **developer** </br>
+💡 I consider myself a passionate seeker of **creativity**, and I love **travelling** </br>
+🧡 Currently, I'm the **Image Director** @ [CeSIUM](https://cesium.pt/) </br>
+🍁 **Autumn** is my favourite season of the year
 
 #
 
-### 🔔 Contacts
-</br>
+### ☕ Contacts
+
 <p align="left">
     <a href="mailto:ritacunhacamacho@gmail.com">
-       <img alt="ritacunhacamacho@gmail.com" title="Email" src="https://custom-icon-badges.demolab.com/badge/-EMAIL-858AE3?style=for-the-badge&logo=mail&logoColor=white"/>
+       <img alt="ritacunhacamacho@gmail.com" title="Email" src="https://custom-icon-badges.demolab.com/badge/-EMAIL-C67C5C?style=for-the-badge&logo=mail&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/rita-camacho-948057253/">
-      <img alt="https://www.linkedin.com/in/rita-camacho-948057253/" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-B596E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/ritacamacho/">
+      <img alt="https://www.linkedin.com/in/ritacamacho/" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-8BA888?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
 
 #
 
-### 👩‍💻 Languages and Frameworks
-</br>
+### ⭐ Technologies
 
-![C](https://img.shields.io/badge/c-3670A0?style=for-the-badge&logo=c&logoColor=white)
-![Haskell](https://img.shields.io/badge/haskell-382C52?style=for-the-badge&logo=haskell&logoColor=white)
-
-#
-
-### 💜 Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ritacamacho&show_icons=true&theme=discord_old_blurple&bg_color=00000000"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritacamacho&show_icons=true&theme=discord_old_blurple&bg_color=00000000"/>
+![Next.js](https://img.shields.io/badge/Next.js-8B5A47?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-8BA888?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-7697D0?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4977C1?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-2A487A?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-698E67?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-CCAD66?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-C67C5C?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-A478B4?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-C75B5B?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://custom-icon-badges.demolab.com/badge/-Figma-D685A8?style=for-the-badge&logo=figma&logoColor=white)
